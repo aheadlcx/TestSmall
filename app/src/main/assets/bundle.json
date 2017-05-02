@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "me.aheadlcx.app.main"
+    },
+    {
+      "uri": "lib.ui",
+      "pkg": "me.aheadlcx.lib.ui"
+    },
+    {
+      "uri": "home",
+      "pkg": "me.aheadlcx.app.home"
+    }
+  ]
+}
