@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+/app/build/
+/app.home/build/
+/app.main/build/
+/lib.ui/build/
