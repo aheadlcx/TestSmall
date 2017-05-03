@@ -509,6 +509,10 @@ int dimen notification_small_icon_size_as_large 0x3106005e
 int dimen notification_subtext_size 0x3106005f
 int dimen notification_top_pad 0x31060060
 int dimen notification_top_pad_large_text 0x31060061
+int dimen activity_horizontal_margin 0x31060062
+int dimen activity_vertical_margin 0x31060063
+int dimen appbar_padding_top 0x31060064
+int dimen fab_margin 0x31060065
 int style Base_Widget_AppCompat_DrawerArrowToggle 0x31070000
 int style Base_Theme_AppCompat_DialogWhenLarge 0x31070001
 int style Base_Theme_AppCompat_Light_DialogWhenLarge 0x31070002
@@ -860,6 +864,7 @@ int style Widget_AppCompat_Spinner_Underlined 0x3107015b
 int style Widget_AppCompat_TextView_SpinnerItem 0x3107015c
 int style Widget_AppCompat_Toolbar 0x3107015d
 int style Widget_AppCompat_Toolbar_Button_Navigation 0x3107015e
+int style AppTheme 0x3107015f
 int bool abc_action_bar_embed_tabs 0x31080000
 int bool abc_allow_stacked_button_bar 0x31080001
 int bool abc_config_actionMenuItemAllCaps 0x31080002
@@ -947,6 +952,10 @@ int color abc_tint_switch_thumb 0x3109004e
 int color abc_tint_switch_track 0x3109004f
 int color switch_thumb_material_dark 0x31090050
 int color switch_thumb_material_light 0x31090051
+int color colorAccent 0x31090052
+int color colorLight 0x31090053
+int color colorPrimary 0x31090054
+int color colorPrimaryDark 0x31090055
 int id action_bar_activity_content 0x310a0000
 int id action_bar_spinner 0x310a0001
 int id action_menu_divider 0x310a0002
